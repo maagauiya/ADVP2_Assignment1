@@ -1,0 +1,50 @@
+body{ 
+    background-color: #E1E1E1 !important;
+}
+
+.cc{ 
+    padding: 40px;
+}
+
+.formsizee{ 
+    width: 400px !important;
+}
+
+.b1{ 
+    position: relative !important;
+    top: 40px;
+    right: 415px;
+}
+.b2{ 
+    position: relative !important;
+    top: 40px;
+    right: 405px;
+}
+.b3{ 
+    position: relative !important;
+    top: 40px;
+    right: 395px;
+}
+.s1{ 
+    height: 30px !important;
+    position: relative !important;
+    top: 40px;
+    right: 360px;
+}
+.d1{ 
+    height: 30px !important;
+    position: relative !important;
+    top: 40px;
+    right: 350px;
+}
+.wwq{ 
+    display: none !important;
+}
+.tasks1{ 
+    position: relative !important;
+    left: 400px !important;
+}
+.formm{
+    position: relative !important;
+    left: 300px !important;
+}
